@@ -50,7 +50,6 @@ Where x is the row and y is the column in the grid.
 Example:(3,2)
 
 ---
----
 
 ### 🔹 Successor Function
 From any position, the robot can move to adjacent cells if:
