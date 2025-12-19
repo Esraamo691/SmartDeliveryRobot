@@ -1,0 +1,4 @@
+Algorithm,Path Cost,Nodes Explored,Time (ms)
+UCS,10,41,0.09
+A*,10,12,0.08
+BFS,14,29,0.07
