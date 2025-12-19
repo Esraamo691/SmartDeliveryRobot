@@ -119,7 +119,7 @@ The total path cost is the sum of all movement costs.
 | _Aya Sherif Abou ElFotouh Shalaby_ | 2023055 | A\* Algorithm Implementation                               |
 | _Esraa Islam Mohamed ElAshry_      | 2023033 | Uniform Cost Search (UCS) Implementation                   |
 | _Mariam Mohamed Hassan ElAshqar_   | 2023209 | Breadth-First Search (BFS) Implementation                  |
-| _Doaa Ehab Mohamed ElSabbagh_      | 2023078 | Results analysis & visualization                           |
+| _Doaa Ehab Mohamed ElSabbagh_      | 2023078 | Results analysis , visualization  &  Report File           |
 
 ---
 
